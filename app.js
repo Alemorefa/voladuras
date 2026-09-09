@@ -733,7 +733,7 @@ function renderContacto(container) {
             <div class="detail">
               <div class="txt">
                 <strong>Correo Electrónico</strong>
-                contacto@voladurassanluis.com.ar · ventas@voladurassanluis.com.ar
+                voladurasssanluis@gmail.com · moliendavsl@gmail.com
               </div>
             </div>
             
