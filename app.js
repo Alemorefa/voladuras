@@ -551,7 +551,7 @@ function renderNosotros(container) {
           <!-- NOSOTROS PHOTO GRID -->
           <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px;">
             <img src="assets/naves-trituracion.jpg" alt="Molienda" style="width:100%; height:180px; object-fit:cover; border:1px solid #333;">
-            <img src="assets/yacimiento-reservas.jpeg" alt="Reservas de Explotación" style="width:100%; height:180px; object-fit:cover; border:1px solid #333;">
+            <img src="assets/camion-carga-mineral.jpg" alt="Camión cargado con mineral" style="width:100%; height:180px; object-fit:cover; border:1px solid #333;">
             <img src="assets/rampa-transporte.jpeg" alt="Acceso" style="width:100%; height:180px; object-fit:cover; border:1px solid #333;">
             <img src="assets/yacimiento-calizo.jpeg" alt="Yacimiento Calizo" style="width:100%; height:180px; object-fit:cover; border:1px solid #333;">
           </div>
@@ -650,7 +650,7 @@ function renderEquipos(container) {
         <!-- PROTOTYPE MACHINERY BANNER GRID -->
         <div style="display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:48px;">
           <img src="assets/perforadora-sandvik.jpeg" alt="Sandvik DX680" style="width:100%; height:260px; object-fit:cover; border:1px solid #333;">
-          <img src="assets/flota-pesada-cargadoras.jpg" alt="Flota Pesada de Cargadoras" style="width:100%; height:260px; object-fit:cover; border:1px solid #333;">
+          <img src="assets/flota-cargadora-semirremolques.jpg" alt="Flota Pesada de Cargadoras" style="width:100%; height:260px; object-fit:cover; border:1px solid #333;">
         </div>
 
         <div class="equipment-grid">
@@ -989,8 +989,8 @@ function renderMallas(container) {
             <h3 style="font-size:24px; color:var(--text-white); margin-bottom:20px; font-weight:800; letter-spacing:-0.02em;">Control de Tamizado y Clasificación en Planta</h3>
             <div style="display:grid; grid-template-columns:1fr 1fr; gap:16px;">
               <div>
-                <img src="assets/silos-clasificacion.jpg" alt="Silos de Clasificación" style="width:100%; height:260px; object-fit:cover; border:1px solid var(--border-strong);">
-                <p style="font-size:11px; color:var(--text-gray); margin-top:8px; text-transform:uppercase; font-weight:700; letter-spacing:0.05em;">Silos de Clasificación Neumática</p>
+                <img src="assets/ceramica-sanitaria-conos.jpg" alt="Cerámica sanitaria" style="width:100%; height:260px; object-fit:cover; border:1px solid var(--border-strong);">
+                <p style="font-size:11px; color:var(--text-gray); margin-top:8px; text-transform:uppercase; font-weight:700; letter-spacing:0.05em;">Aplicación en Cerámica Sanitaria</p>
               </div>
               <div>
                 <img src="assets/galpones-stock-lotes.jpg" alt="Stock en Galpones" style="width:100%; height:260px; object-fit:cover; border:1px solid var(--border-strong);">
