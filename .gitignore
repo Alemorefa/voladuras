@@ -18,3 +18,8 @@ Documentación/
 # Carpetas de trabajo temporales
 _to_delete/
 Claude outputs/
+
+# Fotos del interior de planta que el cliente pidio no mostrar
+assets/yacimiento-reservas.jpeg
+assets/flota-pesada-cargadoras.jpg
+assets/silos-clasificacion.jpg
