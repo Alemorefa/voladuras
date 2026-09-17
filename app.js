@@ -989,8 +989,8 @@ function renderMallas(container) {
             <h3 style="font-size:24px; color:var(--text-white); margin-bottom:20px; font-weight:800; letter-spacing:-0.02em;">Control de Tamizado y Clasificación en Planta</h3>
             <div style="display:grid; grid-template-columns:1fr 1fr; gap:16px;">
               <div>
-                <img src="assets/ceramica-sanitaria-conos.jpg" alt="Cerámica sanitaria" style="width:100%; height:260px; object-fit:cover; border:1px solid var(--border-strong);">
-                <p style="font-size:11px; color:var(--text-gray); margin-top:8px; text-transform:uppercase; font-weight:700; letter-spacing:0.05em;">Aplicación en Cerámica Sanitaria</p>
+                <img src="assets/ceramica-sanitaria-conos.jpg" alt="Pruebas de calidad en laboratorio" style="width:100%; height:260px; object-fit:cover; border:1px solid var(--border-strong);">
+                <p style="font-size:11px; color:var(--text-gray); margin-top:8px; text-transform:uppercase; font-weight:700; letter-spacing:0.05em;">Pruebas de Calidad en Laboratorio</p>
               </div>
               <div>
                 <img src="assets/galpones-stock-lotes.jpg" alt="Stock en Galpones" style="width:100%; height:260px; object-fit:cover; border:1px solid var(--border-strong);">
